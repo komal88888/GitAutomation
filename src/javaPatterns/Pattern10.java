@@ -9,9 +9,17 @@ public class Pattern10 {
 	    	for(int j=1;j<=i;j++)
 	    	{
 	    		System.out.print("*");
+	    		System.out.print("A");
+	    		System.out.print("B");
 	    	}
 	    	System.out.println("");
 	    }
 	}
+	
+	public void githubdemo()
+	{
+		System.out.println("This is of no use -just for a demo of making some randome changes");
+	}
+	
 
 }
