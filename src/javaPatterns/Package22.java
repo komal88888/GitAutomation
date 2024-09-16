@@ -1,7 +1,7 @@
 package javaPatterns;
 
 public class Package22 {
-
+//komal edited this code 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		for (char i='E';i>='A';i--)
